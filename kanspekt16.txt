@@ -1,0 +1,38 @@
+Object:
+Object – bu complex digan malumot turiga kiradi. Object ni 2 xil elementlari bor. 1chisi uni propertilari 2chisi metodlari. 
+
+Creating:
+Creating – buni manosi yaratishlik. Buni {} mashnaqa qovus bilan yaratiladi. Bu oziga xar qil propertilarni oziga qabul qiladi.
+
+Accessing:
+Accessing – buni manosi murojat qilish. Murojat qilishni 2xil usuli bor.
+1.	object.property
+2.	object.[property]
+
+Modifying:
+Modifying – buni manosi ozgartirish. Ozgartirishlikni 2xil usuli bor:
+1.	object.prorperty = value
+2.	object.[property] = value
+
+Adding:
+Adding – buni manosi qoshishlik. Qoshishlikni 2xil usuli bor:
+1.	object.prorperty = value
+2.	object.[property] = value
+
+
+object{qiymat}
+
+Deleting (elementni o'chirishlig)
+
+delete
+delete qilganda joyi qoladida uzunligi ham ozgarmaydi
+
+
+elementni ozgaruvchiga olishlig
+let el1 = object.qiymat
+let el2 = string.vahokazo
+
+hamasini bitada elon qilish
+let {el1, el2, el3 vahokazo} = object
+
+log.(...object)
