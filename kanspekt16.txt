@@ -1,3 +1,25 @@
+(OOP) is Object-oriented programming
+
+javascrpit is prototype-based-language,
+prototyple inheritance
+
+sytax of class
+
+class Person {
+    constructor(name) {
+        this.name = name;
+    }
+    getName() {
+        return this.name;
+    }
+}
+
+class is not hoisting
+constructor is hoisting
+2. class is automatic strict mode
+3. class methods isn’t iterated in `for in`.
+4. new operator
+
 Object:
 Object – bu complex digan malumot turiga kiradi. Object ni 2 xil elementlari bor. 1chisi uni propertilari 2chisi metodlari. 
 
