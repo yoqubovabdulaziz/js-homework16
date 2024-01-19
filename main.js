@@ -83,7 +83,7 @@
 //   }
 // }
 
-// let res = new Employee(4, "Azizbek", "Xotamaliyev", 5000);
+// let res = new Employee(4, "Abdulaziz", "Yoqubov", 5000);
 
 // console.log(res.raiseSalary(10));
 
@@ -361,7 +361,7 @@
 //   }
 // }
 
-// let stu = new Student("Azizbek", "Toshkent", "Engineering", 2024, "TDTU");
+// let stu = new Student("Abdulaziz", "Toshkent", "Engineering", 2024, "TDTU");
 
 // class Employee extends Person {
 //   #salary;
@@ -385,7 +385,7 @@
 //   }
 // }
 
-// let emp = new Employee("Azizbek", "Toshkent", 5000, "Web Developer");
+// let emp = new Employee("Abdulaziz", "Toshkent", 5000, "Web Developer");
 
 // console.log(emp.getWork());
 
@@ -470,8 +470,8 @@
 // 8.
 
 // let ob = {
-//   name: "Azizbek",
-//   nickName: "aza"
+//   name: "Abdulaziz",
+//   nickName: "Rolex"
 // }
 
 // class Object {
